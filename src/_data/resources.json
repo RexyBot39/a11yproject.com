@@ -2565,6 +2565,11 @@
 			"description": "This post aims to tell you a few key things about accessibility. I can't cover everything, but I can cover: why accessibility matters, how to make a website accessible, and how to test for accessibility.",
 			"additional": "Max Antonucci",
 			"url": "https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope"
-		}
+		},
+		{
+  "title": "Low Vision Navigator",
+  "description": "A free, no-account planning tool that helps people with low vision, their caregivers, and professionals find next steps for vision rehabilitation, assistive devices, funding, and local services.",
+  "url": "https://lowvisionnavigator.org/"
+}
 	]
 }
